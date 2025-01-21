@@ -1,0 +1,21 @@
+Module Name: Contract
+Feature: Contract
+
+Sale > Order > Contract Menu
+Sale > Reporting > Contract Menu
+Adding Contract Field to Sale Order and Operations
+1. Contract
+Display a list view of all contracts.
+Create contracts with customers, specifying the amount and price for each product.
+Link contracts to multiple companies, and view related companies in a tree view.
+Track the number of open sale orders for each confirmed contract.
+Contracts are manually closed once all quantities are sold.
+2. Reporting Contract
+View graphs, pivot tables, and list views to track sales results and contract metrics.
+3. Sale Quotation/Order Form
+Select a contract when placing an order (the selected company will appear in the contract).
+Automatically add sale order lines based on the "quantity to sell" in the contract.
+Continue the normal sales order process.
+Order products with the desired quantity from the contract and update the contract with the details.
+View the related contract name for any sale orders linked to the contract.
+When selecting a contract, clear the fields in the sale order and populate them with contract data.
