@@ -1,4 +1,3 @@
 # Contract
 version: 18
-
-Good luck:guys!
+purpose: To contract with vendor who are offer the lowest cost.
